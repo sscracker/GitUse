@@ -14,4 +14,5 @@ public class MainActivity extends AppCompatActivity {
         String hello = "Hello git";
     }
     //connect Firebase to the project
+    // code after pushing
 }
